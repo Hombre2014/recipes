@@ -1,0 +1,35 @@
+body {
+    background-color: wheat;
+}
+
+.title {
+    color: teal;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.recipe {
+    text-decoration: none;
+    color: rgb(39, 154, 192);
+}
+
+.recipe:hover {
+    color: blue;
+}
+
+#list {
+    text-align: center;
+}
+
+.img-recipe {
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.container {
+    margin: 4rem;
+}
